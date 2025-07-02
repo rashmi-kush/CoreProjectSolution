@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="F:\Rashmi\app\CoreProjectSolution\CreateView\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="F:\Rashmi\app\CoreProjectSolution\CreateView\.editorconfig" />
+  </ItemGroup>
+
 </Project>
